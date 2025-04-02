@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @sarahfreire2710
-- 👀 I’m interested in data analysis and visualisations, leaning towards DeFi analysis. 
-- 🌱 I’m currently learning different coding languages (SQL, R, Python) as well as different 
-applications for data visualisation (Power Query, Power BI, Tableau). I've also taken an interest in cryptocurrencies 
-and am watching the DeFi space very closely. 
-- 💞️ I’m looking to collaborate on a small project where I can use these new skills I've learnt.
+- 👀 I’m interested in data analysis and visualisations.
+- 🌱 I’m currently working as a data analyst, leveraging SQL, Power BI and Excel to transform data.
+- 💞️ I’m looking to enhance my skills in advanced data analytics, machine learning, and data visualization techniques to provide even more value to the teams I work with.
 - 📫 How to reach me sarahfreiresa@gmail.com
 
 <!---
